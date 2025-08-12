@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLDPE on Baoheng | Container</title>
+    <link>http://localhost:1313/product_categories/lldpe/</link>
+    <description>Recent content in LLDPE on Baoheng | Container</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/product_categories/lldpe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLDPE</title>
+      <link>http://localhost:1313/products/open-9leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/open-9leg/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
