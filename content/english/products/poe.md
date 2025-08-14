@@ -1,9 +1,9 @@
 ---
-title: "HDPE+POE 方形水箱"
+title: "HDPE+POE 周转箱"
 description: "商用/工业级 POE 水箱，多尺寸可选；空箱可嵌套，满载堆放更稳，圆角内壁好清洗。"
 list_image: "images/products/hdpe/ll.jpg"
-hero_image: "images/products/poe/hero.jpg"
-weight: 10          # Hugo 排序用
+hero_image: "images/products/poe/hero.png"
+weight: 20        # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
@@ -37,6 +37,7 @@ showcase:
     - image: "images/products/poe/under.jpg"
       title: "底部加强筋与承重"
       content: "交错筋底配合防滑纹理，使受力更均匀、地面抓地更好；满载堆放更稳，减少位移与形变。"
+
 
 
 spec_headers:

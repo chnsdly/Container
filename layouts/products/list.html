@@ -5,9 +5,9 @@
 <!-- checking blog -->
 {{ if .Pages }}
 <div class="page-wrapper">
-  <div class="container">
+  <div class="container" style="width: 1400px;">
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-2">
         <aside class="sidebar" style="margin: 0 15px 20px 15px;">
           <div class="row">
             <!-- 标题 -->
@@ -32,16 +32,16 @@
           </div>
         </aside>
       </div>
-<div class="col-md-9">
+<div class="col-md-10">
   <div class="row">
     {{ range .Data.Pages -}}
     <div class="col-lg-4 col-md-6 mb-4">
       <div class="productmain h-100 rounded overflow-hidden shadow-sm border-0">
         <!-- 图片容器 - 固定4:3比例 -->
         <div class="post-media" style="padding-top: 75%; position: relative;">
-          {{ if isset .Params "image" -}}
+          {{ if isset .Params "list_image" -}}
           <a href="{{ .RelPermalink }}" class="d-block h-100 w-100" style="position: absolute; top: 0; left: 0;">
-            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" 
+            <img src="{{ .Params.list_image | relURL }}" alt="{{ .Title }}" 
                  class="img-fluid h-100 w-100 product-image" style="object-fit: cover;">
           </a>
           {{- else }}

@@ -1,77 +1,72 @@
 ---
-title: "HDPE 方形水箱"
-description: "商用/工业级 HDPE 水箱，多尺寸可选；空箱可嵌套，满载堆放更稳，圆角内壁好清洗。"
-list_image: "images/products/hdpe/ll.jpg"
-hero_image: "images/products/lldpef/hero.jpg"
-weight: 10          # Hugo 排序用
+title: "LLDPE 叉车桶"
+description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+hero_image: "images/ex.png"
+weight: 50          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
 features:
-  - title: "HDPE 材质"
-    text: "高韧耐冲击，内壁易清洁；可选食品接触级，耐多种清洁剂。"
-
+  - title: "HDPE"
+    text: "耐用、易清洁，可接触食材与清洗用品。"
   - title: "可嵌套省空间"
-    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
-
+    text: "运输与仓储体积显著降低，提升装载率。"
   - title: "支持定制"
-    text: "颜色/容量/结构与丝印 Logo 可选；量产交付稳定。"
-
+    text: "可定色、丝印 Logo；大货稳定供给。"
 
 showcase:
   enable: true
-  gallery_heading: "产品介绍"
+  gallery_heading: "产品展示"
   items:
-    - image: "images/products/hdpe/ll.jpg"
-      title: "HDPE 大容量水箱（30–400 L）"
-      content:  "厚壁与圆角内壁更耐用、易冲洗；多色可选，适合仓配与加工现场的高频使用。"
-    - image: "images/products/hdpe/ss.jpg"
-      title: "HDPE 小型水盆（3.5–22 L）"
-      content:  "小批量取用与分装更灵活，便于快进快出；可嵌套回空省库位，日清日洗不易挂污。"
-    - image: "images/products/hdpe/under.jpg"
-      title: "底部加强筋结构"
-      content:  "交错筋条提升抗压与抗冲击，底纹增强湿地面摩擦力；受力更均匀，满载堆放更稳。"
-    - image: "images/products/hdpe/work.jpg"
-      title: "使用场景实拍｜加工与分拣现场"
-      content:  "标准化分区与流程核对下的日常作业，HDPE 敞口容器用于清洗、暂存与转运。"
+    - image: "images/ex.png"
+      title: "测试看看Ø180 × H80 mm"
+      content:  "容积 1.2 L · 重量 85 g"
+    - image: "images/ex.png"
+      title: "Ø220 × H95 mm"
+      content:  "容积 2.0 L · 重量 110 g"
+    - image: "images/ex.png"
+      title: "Ø260 × H105 mm"
+      content:  "容积 3.2 L · 重量 140 g"
+    - image: "images/ex.png"
+      title: "Ø300 × H110 mm"
+      content:  "容积 5.0 L · 重量 180 g"
       # ……继续补齐其余尺寸
+
+products:
+  enable: true
+  items:
+    - name: "30L"
+      specs: "Size: 80*80*15cm | Weight: 4kg | Dynamic load: 0.6t"
+      image: "images/products/blow/nine-0808.jpg"
+
+    - name: "40L"
+      specs: "Size: 100*80*15cm | Weight: 7kg | Dynamic load: 0.5t"
+      image: "images/products/blow/nine-1008.jpg"
+
+    - name: "50L"
+      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
+      image: "images/products/blow/nine-1010.jpg"
 
 spec_headers:
   - { key: "model",     label: "型号" }
-  - { key: "size",      label: "尺寸 (cm)" }
+  - { key: "mouth_dia", label: "口径 (cm)" }
+  - { key: "height",    label: "高度 (cm)" }
   - { key: "volume",    label: "容积 (L)" }
   - { key: "material",  label: "原料" }
   - { key: "process",   label: "生产工艺" }
   - { key: "color",     label: "颜色" }
 
 specs:
-  - { model: 浅盆系列：, size: , volume: , material: , process: , color:  }
-  - { model: PCLLDPE50FS,  size: 60 * 39 * 20,  volume: 50,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE75FS,  size: 88 * 61 * 25,  volume: 75,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE80FS,  size: 102 * 52 * 21, volume: 80,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE85FS,  size: 100 * 50 * 24, volume: 85,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE100FS, size: 91 * 60.5 * 24,  volume: 100, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE120FS, size: 111 * 57 * 26.5, volume: 120, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE200FS, size: 110 * 80 * 26.5, volume: 200, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE300FS, size: 124 * 92 * 31,  volume: 300, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE350FS, size: 115 * 85 * 31,  volume: 350, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE380FS, size: 141 * 90 * 37,  volume: 380, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE800FS, size: 180 * 130 * 30, volume: 800, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: 深盆系列：, size: , volume: , material: , process: , color:  }
-  - { model: PCLLDPE50F,   size: 60 * 45 * 32,     volume: 50,   material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE90F,   size: 68 * 46 * 36,     volume: 90,   material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE120F,  size: 68 * 48 * 40,     volume: 120,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE160F,  size: 73 * 55 * 50,     volume: 160,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE200F,  size: 80 * 60 * 55,     volume: 200,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE300F,  size: 95 * 62 * 60,     volume: 300,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE400F,  size: 96 * 72 * 65,     volume: 400,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE500F,  size: 120 * 94 * 59,    volume: 500,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE800F,  size: 150 * 110 * 56,   volume: 800,  material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE2000F, size: 220 * 150 * 70,   volume: 2000, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE1100F, size: 190 * 97 * 70,    volume: 1100, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE1200F, size: 180 * 120 * 65,   volume: 1200, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE1500F, size: 190 * 130 * 60,   volume: 1500, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
-  - { model: PCLLDPE1000F, size: 160 * 120 * 60,   volume: 1000, material: LLDPE, process: 滚塑, color: 红 / 蓝 / 白 }
+
+  - { model: PCPE500F,  mouth_dia: , height: , volume: 500,  material: PE, process: 吹塑, color: 白 / 蓝 }
+  - { model: PCPE600F,  mouth_dia: , height: , volume: 600,  material: PE, process: 吹塑, color: 白 / 蓝 }
+  - { model: PCPE800F,  mouth_dia: , height: , volume: 800,  material: PE, process: 吹塑, color: 白 / 蓝 }
+  - { model: PCPE1000F, mouth_dia: , height: , volume: 1000, material: PE, process: 吹塑, color: 白 / 蓝 }
+  - { model: PCPE1200F, mouth_dia: , height: , volume: 1200, material: PE, process: 吹塑, color: 白 / 蓝 }
+  - { model: PCPE1500F, mouth_dia: , height: , volume: 1500, material: PE, process: 吹塑, color: 白 / 蓝 }
+  - { model: PCPE2000F, mouth_dia: , height: , volume: 2000, material: PE, process: 吹塑, color: 白 / 蓝 }
+
+  # ……按需增删字段，表头同步更新
 
 
 ---

@@ -1,7 +1,8 @@
 ---
-title: "浴盆（PE）"
+title: "PE 多功能盆"
 description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
-hero_image: "images/ex.png"
+list_image: "images/products/pe/main.jpg"
+hero_image: "images/products/pe/hero.jpg"
 weight: 70         # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
@@ -31,6 +32,21 @@ showcase:
       title: "Ø300 × H110 mm"
       content:  "容积 5.0 L · 重量 180 g"
       # ……继续补齐其余尺寸
+
+products:
+  enable: true
+  items:
+    - name: "30L"
+      specs: "Size: 80*80*15cm | Weight: 4kg | Dynamic load: 0.6t"
+      image: "images/products/blow/nine-0808.jpg"
+
+    - name: "40L"
+      specs: "Size: 100*80*15cm | Weight: 7kg | Dynamic load: 0.5t"
+      image: "images/products/blow/nine-1008.jpg"
+
+    - name: "50L"
+      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
+      image: "images/products/blow/nine-1010.jpg"
 
 spec_headers:
   - { key: "model",     label: "型号" }
