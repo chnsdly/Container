@@ -14,32 +14,32 @@ banner:
 ############################# home-products #################################
 products:
   enable: true
-  title: "商用 / 工业塑料容器全系产品"
+  title: "商用 / 工业塑料容器多系产品"
   description: "围绕储水、清洁、食品加工、农业与化工等多场景，提供耐用、易清洁的塑料容器。支持圆形、方形、带盖、可堆叠、可嵌套等多种组合。"
   items:
-    - title: "全系产品"
-      content: "水箱、储罐、水桶、量桶、水盆、周转盆/箱、储液桶等；从家庭商用到工业级别均可覆盖。"
-      image: "images/ex.jpg"
+    - title: "多种系列产品"
+      content: "水箱、水桶、周转盆/箱、储液桶等；从家庭商用到工业级别均可覆盖。"
+      image: "images/all.png"
 
     - title: "材料与合规选项"
-      content: "HDPE / LLDPE / HDPE+POE 抗冲击、耐多种化学品；可按需选择食品接触级与饮用水接触级方案。"
-      image: "images/ex.jpg"
+      content: "HDPE / LLDPE / HDPE+POE 抗冲击、耐多种化学品；可按需选择食品与饮用水接触级方案。"
+      image: "images/yuanliao.jpg"
 
     - title: "制造与质量控制"
-      content: "吹塑工艺，一体成型、圆角加筋与底部加强设计；批次追溯与来料检验，确保耐用性。"
-      image: "images/ex.jpg"
+      content: "底部加强设计，圆角加筋；批次追溯与来料检验，确保耐用性。"
+      image: "images/under.jpg"
 
     - title: "应用与设计细节"
-      content: "排液口、边缘加固，支持堆叠或嵌套收纳，便于运输与仓储；可户外使用。"
-      image: "images/ex.jpg"
+      content: "注塑、滚塑工艺，一体成型，支持堆叠或嵌套收纳，便于运输与仓储。"
+      image: "images/Nested.jpg"
 
     - title: "现货规格与配件"
       content: "常备多种容量与开口形式，多色（白/蓝/黑/灰等）定制可选，一站式配齐。"
-      image: "images/ex.jpg"
+      image: "images/color.jpg"
 
     - title: "交付服务与支持"
       content: "样品确认与技术咨询、化学兼容性参考、标签/Logo 定制，支持批量与长期供货。"
-      image: "images/ex.jpg"
+      image: "images/factory.jpg"
 
 
 

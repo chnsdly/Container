@@ -9,13 +9,13 @@ specs_heading: "规格总表"
 
 features:
   - title: "HDPE 材质"
-    text: "高韧耐冲击，内壁易清洁；可选食品接触级，耐多种清洁剂。"
+    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
 
   - title: "可嵌套省空间"
-    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
+    text: "空箱相互嵌套，装载率更高、周转更高效。"
 
   - title: "支持定制"
-    text: "颜色/容量/结构与丝印 Logo 可选；量产交付稳定。"
+    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
 
 
 showcase:
@@ -34,7 +34,7 @@ showcase:
     - image: "images/products/hdpe/work.jpg"
       title: "使用场景实拍｜加工与分拣现场"
       content:  "标准化分区与流程核对下的日常作业，HDPE 敞口容器用于清洗、暂存与转运。"
-      # ……继续补齐其余尺寸
+
 
 products:
   enable: true

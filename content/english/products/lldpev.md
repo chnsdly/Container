@@ -1,51 +1,75 @@
 ---
 title: "LLDPE 立式水塔"
 description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
-hero_image: "images/ex.png"
+list_image: "images/products/lldpev/main.jpg"
+hero_image: "images/products/lldpev/hero.jpg"
 weight: 60          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
 features:
-  - title: "HDPE"
-    text: "耐用、易清洁，可接触食材与清洗用品。"
-  - title: "可嵌套省空间"
-    text: "运输与仓储体积显著降低，提升装载率。"
+  - title: "LLDPE 材质"
+    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
+
+  - title: "耐候抗 UV"
+    text: "户外长期使用不易脆裂；不同温差环境稳定，寿命更长。"
+
   - title: "支持定制"
-    text: "可定色、丝印 Logo；大货稳定供给。"
+    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
 
 showcase:
   enable: true
-  gallery_heading: "产品展示"
+  gallery_heading: "产品介绍"
   items:
-    - image: "images/ex.png"
-      title: "测试看看Ø180 × H80 mm"
-      content:  "容积 1.2 L · 重量 85 g"
-    - image: "images/ex.png"
-      title: "Ø220 × H95 mm"
-      content:  "容积 2.0 L · 重量 110 g"
-    - image: "images/ex.png"
-      title: "Ø260 × H105 mm"
-      content:  "容积 3.2 L · 重量 140 g"
-    - image: "images/ex.png"
-      title: "Ø300 × H110 mm"
-      content:  "容积 5.0 L · 重量 180 g"
-      # ……继续补齐其余尺寸
+    - image: "images/products/lldpev/1.jpg"
+      title: "LLDPE 立式水塔"
+      content: "厚壁桶身，内壁光滑易清洁，适合室内/户外长期使用。"
+
+    - image: "images/products/lldpev/2.jpg"
+      title: "多容量可选"
+      content: "多规格容量与高度可选，便于选型与扩容。"
+
+    - image: "images/products/lldpev/3.jpg"
+      title: "密封盖结构"
+      content: "大口径方便装填和清洗，盖体兼顾密封与安全。"
+
+    - image: "images/products/lldpev/4.jpg"
+      title: "环向加强筋｜更稳更耐用"
+      content: "环绕加强筋限制径向鼓胀，使受力更均匀。"
+
 
 products:
   enable: true
   items:
-    - name: "30L"
-      specs: "Size: 80*80*15cm | Weight: 4kg | Dynamic load: 0.6t"
-      image: "images/products/blow/nine-0808.jpg"
+    - name: "300L"
+      image: "images/products/lldpev/300.jpg"
+    - name: "500L"
+      image: "images/products/lldpev/500.jpg"
+    - name: "800L"
+      image: "images/products/lldpev/800.jpg"
+    - name: "1000L"
+      image: "images/products/lldpev/1000.jpg"
+    - name: "1500L"
+      image: "images/products/lldpev/1500.jpg"
+    - name: "2000L"
+      image: "images/products/lldpev/2000.jpg"
+    - name: "3000L"
+      image: "images/products/lldpev/3000.jpg"
+    - name: "4500L"
+      image: "images/products/lldpev/4500.jpg"
+    - name: "5000L"
+      image: "images/products/lldpev/5000.jpg"
+    - name: "6000L"
+      image: "images/products/lldpev/6000.jpg"
+    - name: "8000L"
+      image: "images/products/lldpev/8000.jpg"
+    - name: "10000L"
+      image: "images/products/lldpev/10000.jpg"
+    - name: "15000L"
+      image: "images/products/lldpev/15000.jpg"
+    - name: "20000L"
+      image: "images/products/lldpev/20000.jpg"
 
-    - name: "40L"
-      specs: "Size: 100*80*15cm | Weight: 7kg | Dynamic load: 0.5t"
-      image: "images/products/blow/nine-1008.jpg"
-
-    - name: "50L"
-      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
-      image: "images/products/blow/nine-1010.jpg"
 
 spec_headers:
   - { key: "model",     label: "型号" }

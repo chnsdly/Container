@@ -1,55 +1,70 @@
 ---
 title: "LLDPE 周转箱"
 description: "商用/工业级 HDPE 水箱，多尺寸可选；空箱可嵌套，满载堆放更稳，圆角内壁好清洗。"
-list_image: "images/products/hdpe/ll.jpg"
-hero_image: "images/products/lldpef/hero.jpg"
+list_image: "images/products/lldpes/main.jpg"
+hero_image: "images/products/lldpes/hero.jpg"
 weight: 30          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
 features:
-  - title: "HDPE 材质"
-    text: "高韧耐冲击，内壁易清洁；可选食品接触级，耐多种清洁剂。"
+  - title: "LLDPE 材质"
+    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
 
   - title: "可嵌套省空间"
-    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
+    text: "空箱相互嵌套，装载率更高、周转更高效。"
 
   - title: "支持定制"
-    text: "颜色/容量/结构与丝印 Logo 可选；量产交付稳定。"
+    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
 
 
 showcase:
   enable: true
   gallery_heading: "产品介绍"
   items:
-    - image: "images/products/hdpe/ll.jpg"
-      title: "HDPE 大容量水箱（30–400 L）"
-      content:  "厚壁与圆角内壁更耐用、易冲洗；多色可选，适合仓配与加工现场的高频使用。"
-    - image: "images/products/hdpe/ss.jpg"
-      title: "HDPE 小型水盆（3.5–22 L）"
-      content:  "小批量取用与分装更灵活，便于快进快出；可嵌套回空省库位，日清日洗不易挂污。"
-    - image: "images/products/hdpe/under.jpg"
-      title: "底部加强筋结构"
-      content:  "交错筋条提升抗压与抗冲击，底纹增强湿地面摩擦力；受力更均匀，满载堆放更稳。"
-    - image: "images/products/hdpe/work.jpg"
-      title: "使用场景实拍｜加工与分拣现场"
-      content:  "标准化分区与流程核对下的日常作业，HDPE 敞口容器用于清洗、暂存与转运。"
-      # ……继续补齐其余尺寸
+    - image: "images/products/lldpes/1.jpg"
+      title: "产品外观展示"
+      content: "滚塑一体成型，圆角厚壁更耐用；内壁光滑易清洁。"
+
+    - image: "images/products/lldpes/2.jpg"
+      title: "加厚边缘"
+      content: "口沿加厚提升周边刚性与抗冲击，搬运更稳更安心。"
+
+    - image: "images/products/lldpes/3.jpg"
+      title: "高度展示"
+      content: "提供各种尺寸，覆盖常用容量段，按需求精准选型。"
+
+    - image: "images/products/lldpes/4.jpg"
+      title: "柔韧性演示"
+      content: "LLDPE具更高韧性与抗冲击，受压可回弹、不易开裂。"
+
 
 products:
   enable: true
   items:
+    - name: "50L"
+      image: "images/products/lldpes/50.jpg"
+    - name: "75L"
+      image: "images/products/lldpes/75.jpg"
+    - name: "80L"
+      image: "images/products/lldpes/80.jpg"
+    - name: "85L"
+      image: "images/products/lldpes/85.jpg"
+    - name: "100L"
+      image: "images/products/lldpes/100.jpg"
     - name: "120L"
-      specs: "Size: 80*80*15cm | Weight: 4kg | Dynamic load: 0.6t"
       image: "images/products/lldpes/120.jpg"
-
+    - name: "200L"
+      image: "images/products/lldpes/200.jpg"
+    - name: "300L"
+      image: "images/products/lldpes/300.jpg"
+    - name: "350L"
+      image: "images/products/lldpes/350.jpg"
     - name: "380L"
-      specs: "Size: 100*80*15cm | Weight: 7kg | Dynamic load: 0.5t"
       image: "images/products/lldpes/380.jpg"
-
     - name: "800L"
-      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
       image: "images/products/lldpes/800.jpg"
+
 
 spec_headers:
   - { key: "model",     label: "型号" }

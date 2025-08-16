@@ -1,51 +1,33 @@
 ---
 title: "LLDPE 叉车桶"
 description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
-hero_image: "images/ex.png"
+list_image: "images/products/lldpef/main.jpg"
+hero_image: "images/products/lldpef/hero.jpg"
 weight: 50          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
 features:
-  - title: "HDPE"
-    text: "耐用、易清洁，可接触食材与清洗用品。"
+  - title: "HDPE 材质"
+    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
+
   - title: "可嵌套省空间"
-    text: "运输与仓储体积显著降低，提升装载率。"
+    text: "空箱相互嵌套，装载率更高、周转更高效。"
+
   - title: "支持定制"
-    text: "可定色、丝印 Logo；大货稳定供给。"
+    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
 
 showcase:
   enable: true
   gallery_heading: "产品展示"
   items:
-    - image: "images/ex.png"
-      title: "测试看看Ø180 × H80 mm"
-      content:  "容积 1.2 L · 重量 85 g"
-    - image: "images/ex.png"
-      title: "Ø220 × H95 mm"
-      content:  "容积 2.0 L · 重量 110 g"
-    - image: "images/ex.png"
-      title: "Ø260 × H105 mm"
-      content:  "容积 3.2 L · 重量 140 g"
-    - image: "images/ex.png"
-      title: "Ø300 × H110 mm"
-      content:  "容积 5.0 L · 重量 180 g"
-      # ……继续补齐其余尺寸
+    - image: "images/products/lldpef/1.jpg"
+      title: "LLDPE 叉车桶"
+      content: "滚塑一体成型，韧性高、抗冲击，内壁光滑易清洁。"
+    - image: "images/products/lldpef/2.jpg"
+      title: "边缘加厚更结实"
+      content: "上沿强度提升，长期使用不易变形。"
 
-products:
-  enable: true
-  items:
-    - name: "30L"
-      specs: "Size: 80*80*15cm | Weight: 4kg | Dynamic load: 0.6t"
-      image: "images/products/blow/nine-0808.jpg"
-
-    - name: "40L"
-      specs: "Size: 100*80*15cm | Weight: 7kg | Dynamic load: 0.5t"
-      image: "images/products/blow/nine-1008.jpg"
-
-    - name: "50L"
-      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
-      image: "images/products/blow/nine-1010.jpg"
 
 spec_headers:
   - { key: "model",     label: "型号" }
@@ -66,7 +48,6 @@ specs:
   - { model: PCPE1500F, mouth_dia: , height: , volume: 1500, material: PE, process: 吹塑, color: 白 / 蓝 }
   - { model: PCPE2000F, mouth_dia: , height: , volume: 2000, material: PE, process: 吹塑, color: 白 / 蓝 }
 
-  # ……按需增删字段，表头同步更新
 
 
 ---

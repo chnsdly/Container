@@ -1,55 +1,60 @@
 ---
 title: "HDPE 封闭箱"
 description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+list_image: "images/products/close/1.jpg"
 hero_image: "images/products/close/hero.jpg"
 weight: 15          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
 features:
-  - title: "HDPE"
-    text: "耐用、易清洁，可接触食材与清洗用品。"
+  - title: "HDPE 材质"
+    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
+
   - title: "可嵌套省空间"
-    text: "运输与仓储体积显著降低，提升装载率。"
+    text: "空箱相互嵌套，装载率更高、周转更高效。"
+
   - title: "支持定制"
-    text: "可定色、丝印 Logo；大货稳定供给。"
+    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
+
 
 showcase:
   enable: true
-  gallery_heading: "产品展示"
+  gallery_heading: "产品介绍"
   items:
     - image: "images/products/close/1.jpg"
-      title: "测试看看Ø180 × H80 mm"
-      content:  "容积 1.2 L · 重量 85 g"
+      title: "双色外观展示｜HDPE 工业周转箱"
+      content: "同款两色可选，便于按线别/用途快速区分；表面易清洁，适配仓配、加工与分拣等多种场景。"
     - image: "images/products/close/2.jpg"
-      title: "Ø220 × H95 mm"
-      content:  "容积 2.0 L · 重量 110 g"
+      title: "边缘箱体加强筋｜抓取更稳、不易变形"
+      content: "沿口沿布置的立体筋条显著提升周边刚性；反复搬运不塌边，机械/人工抓取更受力。"
     - image: "images/products/close/3.jpg"
-      title: "Ø260 × H105 mm"
-      content:  "容积 3.2 L · 重量 140 g"
+      title: "底部加强筋结构｜承载与抗冲击双提升"
+      content: "交错/井字筋路让受力更均匀；满载堆叠不拱底，底纹增强摩擦，在湿滑地面更稳。"
     - image: "images/products/close/4.jpg"
-      title: "Ø300 × H110 mm"
-      content:  "容积 5.0 L · 重量 180 g"
-      # ……继续补齐其余尺寸
+      title: "生产车间实拍｜自有产线与品控"
+      content: "有序的标准化生产流程，原料→成型→检验全流程可追溯，产能稳定、交期可控。"
+
+
 
 products:
   enable: true
   items:
-    - name: "610"
-      specs: "Size: 80*80*15cm | Weight: 4kg | Dynamic load: 0.6t"
-      image: "images/products/close/610.jpg"
+    - name: "尺寸：635*410*370mm"
+      specs: "Size: 635*410*370mm | Weight: 4kg | Dynamic load: 0.6t"
+      image: "images/products/close/635.jpg"
 
-    - name: "680"
-      specs: "Size: 100*80*15cm | Weight: 7kg | Dynamic load: 0.5t"
-      image: "images/products/close/680.jpg"
-
-    - name: "700"
-      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
+    - name: "尺寸：700*480*410mm"
+      specs: "Size: 700*480*410mm | Weight: 7kg | Dynamic load: 0.5t"
       image: "images/products/close/700.jpg"
 
-    - name: "755"
-      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
-      image: "images/products/close/755.jpg"
+    - name: "尺寸：740*565*400mm"
+      specs: "Size: 740*565*400mm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
+      image: "images/products/close/740.jpg"
+
+    - name: "尺寸：820*565*505mm"
+      specs: "Size: 820*565*505mm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
+      image: "images/products/close/820.jpg"
 
 spec_headers:
   - { key: "model",          label: "型号" }

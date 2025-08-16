@@ -1,7 +1,7 @@
 ---
 title: "HDPE+POE 周转箱"
 description: "商用/工业级 POE 水箱，多尺寸可选；空箱可嵌套，满载堆放更稳，圆角内壁好清洗。"
-list_image: "images/products/hdpe/ll.jpg"
+list_image: "images/products/poe/main.jpg"
 hero_image: "images/products/poe/hero.png"
 weight: 20        # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
@@ -9,7 +9,7 @@ specs_heading: "规格总表"
 
 features:
   - title: "POE 材质"
-    text: "高韧耐冲击，内壁易清洁；可选食品接触级，耐多种清洁剂。"
+    text: "相较 HDPE 具更高韧性与抗冲击，低温不易脆裂。"
 
   - title: "可嵌套省空间"
     text: "回空可嵌套，库位与车次同步下降，装载率提升。"
@@ -31,12 +31,37 @@ showcase:
       content: "上沿加筋与握持弧面提升提拿强度与手感；湿手不易打滑，长期使用不易变形，搬运更安全省力。"
 
     - image: "images/products/poe/round.jpg"
-      title: "圆角内壁（细节）"
-      content: "大圆角过渡，无死角不挂污，冲洗更快更干净；分散应力，降低碰撞与应力开裂风险。"
+      title: "加强筋（细节）"
+      content: "大圆角过渡、交错筋底配合防滑纹理，无死角不挂污，冲洗更快更干净。"
 
-    - image: "images/products/poe/under.jpg"
-      title: "底部加强筋与承重"
-      content: "交错筋底配合防滑纹理，使受力更均匀、地面抓地更好；满载堆放更稳，减少位移与形变。"
+    - image: "images/products/poe/work.jpg"
+      title: "使用场景实拍｜加工与分拣现场"
+      content:  "标准化分区与流程核对下的日常作业，HDPE 敞口容器用于清洗、暂存与转运。"
+
+products:
+  enable: true
+  items:
+    - name: "尺寸: 703*450*342mm"
+      specs: "Size: 703*450*342mm"
+      image: "images/products/poe/90.jpg"
+    - name: "尺寸: 741*473*362mm"
+      specs: "Size: 741*473*362mm"
+      image: "images/products/poe/120.jpg"
+    - name: "尺寸: 790*525*405mm"
+      specs: "Size: 790*525*405mm"
+      image: "images/products/poe/160.jpg"
+    - name: "尺寸: 890*575*452mm"
+      specs: "Size: 890*575*452mm"
+      image: "images/products/poe/200.jpg"
+    - name: "尺寸: 1050*643*505mm"
+      specs: "Size: 1050*643*505mm"
+      image: "images/products/poe/300.jpg"
+    - name: "尺寸: 1110*720*570mm"
+      specs: "Size: 1110*720*570mm"
+      image: "images/products/poe/400.jpg"
+    - name: "尺寸: 1240*780*625mm"
+      specs: "Size: 1240*780*625mm"
+      image: "images/products/poe/600.jpg"
 
 
 

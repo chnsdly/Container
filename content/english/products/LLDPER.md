@@ -1,44 +1,68 @@
 ---
 title: "LLDPE 周转箱(圆)"
 description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+list_image: "images/products/lldper/main.jpg"
 hero_image: "images/products/lldper/hero.png"
 weight: 40          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
 features:
-  - title: "HDPE"
-    text: "耐用、易清洁，可接触食材与清洗用品。"
+  - title: "LLDPE 材质"
+    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
+
   - title: "可嵌套省空间"
-    text: "运输与仓储体积显著降低，提升装载率。"
+    text: "空箱相互嵌套，装载率更高、周转更高效。"
+
   - title: "支持定制"
-    text: "可定色、丝印 Logo；大货稳定供给。"
+    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
 
 showcase:
   enable: true
   gallery_heading: "产品展示"
   items:
     - image: "images/products/lldper/1.jpg"
-      title: "测试看看Ø180 × H80 mm"
-      content:  "容积 1.2 L · 重量 85 g"
-    - image: "images/products/lldper/1.jpg"
-      title: "Ø220 × H95 mm"
-      content:  "容积 2.0 L · 重量 110 g"
+      title: "LLDPE 圆形桶"
+      content: "滚塑一体成型，韧性高、抗冲击，内壁光滑易清洁。"
+    - image: "images/products/lldper/2.jpg"
+      title: "边缘加厚更结实"
+      content: "上沿提升强度与手感，长期使用不易变形。"
+
 
 products:
   enable: true
   items:
     - name: "30L"
-      specs: "Size: 80*80*15cm | Weight: 4kg | Dynamic load: 0.6t"
-      image: "images/products/blow/nine-0808.jpg"
-
-    - name: "40L"
-      specs: "Size: 100*80*15cm | Weight: 7kg | Dynamic load: 0.5t"
-      image: "images/products/blow/nine-1008.jpg"
-
+      image: "images/products/lldper/30.jpg"
     - name: "50L"
-      specs: "Size: 100*100*15cm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
-      image: "images/products/blow/nine-1010.jpg"
+      image: "images/products/lldper/50.jpg"
+    - name: "75L"
+      image: "images/products/lldper/75.jpg"
+    - name: "100L"
+      image: "images/products/lldper/100.jpg"
+    - name: "150L"
+      image: "images/products/lldper/150.jpg"
+    - name: "200L"
+      image: "images/products/lldper/200.jpg"
+    - name: "300L"
+      image: "images/products/lldper/300.jpg"
+    - name: "400L"
+      image: "images/products/lldper/400.jpg"
+    - name: "500L"
+      image: "images/products/lldper/500.jpg"
+    - name: "600L"
+      image: "images/products/lldper/600.jpg"
+    - name: "800L"
+      image: "images/products/lldper/800.jpg"
+    - name: "1000L"
+      image: "images/products/lldper/1000.jpg"
+    - name: "1500L"
+      image: "images/products/lldper/1500.jpg"
+    - name: "2000L"
+      image: "images/products/lldper/2000.jpg"
+    - name: "3000L"
+      image: "images/products/lldper/3000.jpg"
+
 
 spec_headers:
   - { key: "model",    label: "型号" }
