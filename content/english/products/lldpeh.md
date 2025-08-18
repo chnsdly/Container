@@ -55,7 +55,6 @@ specs:
   - { model: PCLLDPE4000HF, size: 202 * 165 * 140,   mouth_dia: 45, volume: 4000,  material: LLDPE, process: 滚塑, color: 白 }
   - { model: PCLLDPE5000HF, size: 225 * 185 * 140,   mouth_dia: 45, volume: 5000,  material: LLDPE, process: 滚塑, color: 白 }
 
-  # ……按需增删字段，表头同步更新
 
 
 ---
