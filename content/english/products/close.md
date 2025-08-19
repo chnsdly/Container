@@ -1,6 +1,6 @@
 ---
 title: "HDPE 封闭箱"
-description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+description: "方形带盖，闭合码放更稳"
 list_image: "images/products/close/main.jpg"
 hero_image: "images/products/close/hero.jpg"
 weight: 15          # Hugo 排序用
@@ -12,10 +12,10 @@ features:
     text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
 
   - title: "可嵌套省空间"
-    text: "空箱相互嵌套，装载率更高、周转更高效。"
+    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
 
   - title: "支持定制"
-    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
+    text: "颜色/容量/Logo 可选；量产交付稳定。"
 
 
 showcase:
@@ -24,7 +24,7 @@ showcase:
   items:
     - image: "images/products/close/1.jpg"
       title: "双色外观展示｜HDPE 工业周转箱"
-      content: "同款两色可选，便于按线别/用途快速区分；表面易清洁，适配仓配、加工与分拣等多种场景。"
+      content: "同款两色可选，便于按线别/用途快速区分；适配仓配、加工与分拣等多种场景。"
     - image: "images/products/close/2.jpg"
       title: "边缘箱体加强筋｜抓取更稳、不易变形"
       content: "沿口沿布置的立体筋条显著提升周边刚性；反复搬运不塌边，机械/人工抓取更受力。"

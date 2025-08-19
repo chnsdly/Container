@@ -64,7 +64,7 @@ features:
   title: "宝恒塑料容器：制造与质量保障"
   feature_item:
     - icon: "fas fa-history"
-      name: "专业制造经验"
+      name: "制造经验"
       content: "滚塑/注塑工艺，流程控制，交付可追溯"
 
     - icon: "fas fa-pallet"
@@ -72,7 +72,7 @@ features:
       content: "规模化产能与稳定排产，支持长期供货"
 
     - icon: "fas fa-cogs"
-      name: "先进生产设备"
+      name: "生产设备"
       content: "滚塑/注塑全自动产线"
 
     - icon: "fas fa-certificate"
@@ -80,7 +80,7 @@ features:
       content: "材料合规与第三方检测资料"
 
     - icon: "fas fa-users"
-      name: "全球客户基础"
+      name: "全球客户"
       content: "服务跨行业客户，交付稳定、响应及时"
 
     - icon: "fas fa-clipboard-check"

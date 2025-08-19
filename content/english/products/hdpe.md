@@ -23,10 +23,10 @@ showcase:
   gallery_heading: "产品介绍"
   items:
     - image: "images/products/hdpe/ll.jpg"
-      title: "HDPE 大容量水箱（30–400 L）"
+      title: "HDPE 大容量周转箱（30–400 L）"
       content:  "厚壁与圆角内壁更耐用、易冲洗；多色可选，适合仓配与加工现场的高频使用。"
     - image: "images/products/hdpe/ss.jpg"
-      title: "HDPE 小型水盆（3.5–22 L）"
+      title: "HDPE 小型周转箱（3.5–22 L）"
       content:  "小批量取用与分装更灵活，便于快进快出；可嵌套回空省库位，日清日洗不易挂污。"
     - image: "images/products/hdpe/under.jpg"
       title: "底部加强筋结构"

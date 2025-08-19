@@ -23,10 +23,10 @@ showcase:
   items:
     - image: "images/products/lldpef/1.jpg"
       title: "LLDPE 叉车桶"
-      content: "滚塑一体成型，韧性高、抗冲击，内壁光滑易清洁。"
+      content: "LLDPE 滚塑一体成型；叉槽加强，起运稳固"
     - image: "images/products/lldpef/2.jpg"
       title: "边缘加厚更结实"
-      content: "上沿强度提升，长期使用不易变形。"
+      content: "装卸冲击下不易变形，长期使用更耐久"
 
 
 spec_headers:

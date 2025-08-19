@@ -15,7 +15,7 @@ features:
     text: "户外长期使用不易脆裂；不同温差环境稳定，寿命更长。"
 
   - title: "支持定制"
-    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
+    text: "颜色/容量/Logo 可选；量产交付稳定。"
 
 showcase:
   enable: true
@@ -35,7 +35,7 @@ showcase:
 
     - image: "images/products/lldpev/4.jpg"
       title: "环向加强筋｜更稳更耐用"
-      content: "环绕加强筋限制径向鼓胀，使受力更均匀。"
+      content: "环绕加强筋限制径向鼓胀，受力更均匀。"
 
 
 products:

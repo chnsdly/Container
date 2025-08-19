@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 周转箱"
-description: "多尺寸可选；空箱可嵌套，满载堆放更稳，圆角内壁好清洗。"
+description: "多尺寸可选；空箱可嵌套"
 list_image: "images/products/lldpes/main.jpg"
 hero_image: "images/products/lldpes/hero.jpg"
 weight: 30          # Hugo 排序用
@@ -12,10 +12,10 @@ features:
     text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
 
   - title: "可嵌套省空间"
-    text: "空箱相互嵌套，装载率更高、周转更高效。"
+    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
 
   - title: "支持定制"
-    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
+    text: "颜色/容量/Logo 可选；量产交付稳定。"
 
 
 showcase:

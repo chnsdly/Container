@@ -15,7 +15,7 @@ features:
     text: "户外长期使用不易脆裂；不同温差环境稳定，寿命更长。"
 
   - title: "支持定制"
-    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
+    text: "颜色/容量/Logo 可选；量产交付稳定。"
 
 showcase:
   enable: true
@@ -23,10 +23,10 @@ showcase:
   items:
     - image: "images/products/lldpeh/1.jpg"
       title: "LLDPE 卧式水塔"
-      content: "圆筒卧式结构，重心更低更稳；厚壁耐冲击、耐腐蚀，内壁光滑易清洁."
+      content: "圆筒卧式结构，重心更低更稳，厚壁耐冲击"
     - image: "images/products/lldpeh/2.jpg"
       title: "承重与抗形变提升"
-      content: "环向/纵向加强筋分散侧压与滚动应力，满载久置不易鼓胀，运输固定更可靠。"
+      content: "环向/纵向加强筋分散侧压与滚动应力，满载久置不易鼓胀"
 
 
 

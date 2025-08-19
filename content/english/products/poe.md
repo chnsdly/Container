@@ -15,7 +15,7 @@ features:
     text: "回空可嵌套，库位与车次同步下降，装载率提升。"
 
   - title: "支持定制"
-    text: "颜色/容量/结构与丝印 Logo 可选；量产交付稳定。"
+    text: "颜色/容量/Logo 可选；量产交付稳定。"
 
 
 showcase:
@@ -28,7 +28,7 @@ showcase:
 
     - image: "images/products/poe/hand.jpg"
       title: "把手边缘加强筋（细节）"
-      content: "上沿加筋与握持弧面提升提拿强度与手感；湿手不易打滑，长期使用不易变形，搬运更安全省力。"
+      content: "上沿加筋与握持弧面提升提拿强度与手感；湿手不易打滑，长期使用不易变形。"
 
     - image: "images/products/poe/round.jpg"
       title: "加强筋（细节）"

@@ -12,10 +12,10 @@ features:
     text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
 
   - title: "可嵌套省空间"
-    text: "空箱相互嵌套，装载率更高、周转更高效。"
+    text: "回空可嵌套，库位与车次同步下降，装载率提升。"
 
   - title: "支持定制"
-    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
+    text: "颜色/容量/Logo 可选；量产交付稳定。"
 
 showcase:
   enable: true
@@ -26,7 +26,7 @@ showcase:
       content: "滚塑一体成型，韧性高、抗冲击，内壁光滑易清洁。"
     - image: "images/products/lldper/2.jpg"
       title: "边缘加厚更结实"
-      content: "上沿提升强度与手感，长期使用不易变形。"
+      content: "上沿强度提升，长期使用不易变形。"
 
 
 products:
