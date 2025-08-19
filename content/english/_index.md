@@ -5,7 +5,7 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "让可靠的容器成为我们的共同标准"
-  content: "材料与结构的长期打磨，持续降低全生命周期成本"
+  content: "更少破损与更换，长期总成本更低"
   button:
     enable: true
     label: "查看产品"
@@ -17,29 +17,30 @@ products:
   title: "商用 / 工业塑料容器多系产品"
   description: "围绕储水、清洁、食品加工、农业与化工等多场景，提供耐用、易清洁的塑料容器。支持圆形、方形、带盖、可堆叠、可嵌套等多种组合。"
   items:
-    - title: "多种系列产品"
-      content: "水箱、水桶、周转盆/箱、储液桶等；从家庭商用到工业级别均可覆盖。"
-      image: "images/all.png"
+  - title: "产品"
+    content: "周转箱/桶/盆、储液桶等品类齐全，覆盖家用、商用与工业级应用场景。"
+    image: "images/all.png"
 
-    - title: "材料与合规选项"
-      content: "HDPE / LLDPE / HDPE+POE 抗冲击、耐多种化学品；可按需选择食品与饮用水接触级方案。"
-      image: "images/yuanliao.jpg"
+  - title: "材料"
+    content: "HDPE/HDPE+POE/LLDPE，满足食品接触与饮用水应用；抗冲击，耐多类化学品。"
+    image: "images/yuanliao.jpg"
 
-    - title: "制造与质量控制"
-      content: "底部加强设计，圆角加筋；批次追溯与来料检验，确保耐用性。"
-      image: "images/under.jpg"
+  - title: "结构"
+    content: "注塑/滚塑一体成型；底部和箱体有加强筋；可嵌套回空，提升运输与仓储效率。"
+    image: "images/under.jpg"
+  
+  - title: "质量"
+    content: "来料检验与过程质控，并经堆码、跌落试验验证，确保批次稳定与耐用。"
+    image: "images/Nested.jpg"
 
-    - title: "应用与设计细节"
-      content: "注塑、滚塑工艺，一体成型，支持堆叠或嵌套收纳，便于运输与仓储。"
-      image: "images/Nested.jpg"
+  - title: "规格"
+    content: "多容量，多结构形式，多配色（蓝/白/红等）可选。"
+    image: "images/color.jpg"
 
-    - title: "现货规格与配件"
-      content: "常备多种容量与开口形式，多色（白/蓝/黑/灰等）定制可选，一站式配齐。"
-      image: "images/color.jpg"
+  - title: "交付"
+    content: "选型咨询与兼容性把关；颜色/Logo 定制；具备规模产能与稳定排产能力。"
+    image: "images/factory.jpg"
 
-    - title: "交付服务与支持"
-      content: "样品确认与技术咨询、化学兼容性参考、标签/Logo 定制，支持批量与长期供货。"
-      image: "images/factory.jpg"
 
 
 
@@ -129,27 +130,27 @@ funfacts:
   - name: "陈志远"
     image: "images/clients/avater-1.jpg"
     designation: "上海某连锁餐饮中央厨房设备经理"
-    content: "把后厨的量桶、水桶和带龙头储液桶全面换成你们的食品级 HDPE 后，异味和渗漏基本消失。高温洗消 90℃ 没变形，清洁用时降低约 28%，破损更换率从以前的 15% 掉到 3% 左右，旺季备料更稳了。"
+    content: "把后厨的水桶和储液桶都换成宝恒的产品后，异味明显减轻；短时高温洗消不变形，清洁更快，损耗更低了"
 
   # 欧洲案例（农业与温室灌溉）
   - name: "Marta González"
     image: "images/clients/avater-2.jpg"
-    designation: "西班牙阿尔梅里亚农业合作社灌溉主管"
-    content: "温室里夏季 40℃+、紫外强，旧桶晒两季就脆裂。你们的滚塑水箱和 LLDPE 量桶后，用了第三年依然结实，密封也不渗。深色桶抑制了藻类滋生，维护频次少了近一半，运输时可嵌套堆放，每车多装一层，成本下降看得见。"
+    designation: "阿尔梅里亚农业合作社技术服务负责人"
+    content: "在当地夏季高温与强 UV 条件下，使用三季后仍保持良好强度与密封。深色容器有效抑制藻类滋生，维护频次明显下降。量桶与周转容器可嵌套回空，回程装载率更高，物流与仓储更省。"
 
   # 非洲案例（清洁化学与仓储）
   - name: "Amina Hassan"
     image: "images/clients/avater-3.jpg"
     designation: "肯尼亚内罗毕食品加工厂仓储主管"
-    content: "我们用容器配制消毒剂和碱性清洗液，对化学兼容性要求高。你们的 HDPE+POE 桶抗冲击、耐腐蚀，湿滑地面加防滑圈后不易倒桶。年度报废率从 8% 降到 2.3%，库位也因可嵌套收纳腾出了两排。"
+    content: "我们用容器配制消毒剂和碱性清洗液，对化学兼容性要求高。你们的桶抗冲击、耐腐蚀，湿滑地面加防滑圈后不易倒桶。年报废率更低了，库位也因可嵌套收纳腾出了更大空间。"
 
 
 ############################ call to action ###########################
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "诚邀合作：携手共赢，共创辉煌"
-  content: "告诉我们您的需求，我们将为您提供定制化的解决方案。"
+  title: "获取产品报价"
+  content: "提交您的需求，我们将尽快与您联系。"
   button:
     enable: true
     label: "联系我们"

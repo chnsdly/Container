@@ -47,39 +47,40 @@ featured_service:
 service:
   enable: true
   title: "产品核心优势"
-  description: "专业塑料容器制造技术，赋能储存、搬运与卫生管理"
+  description: "专业塑料容器制造，赋能储存、搬运与卫生管理"
   service_item:
     - icon: fas fa-cubes
-      name: 高性能材质
-      content: "全新 HDPE / LLDPE / HDPE+POE，抗冲击、耐化学腐蚀"
+      name: "材质与合规"
+      content: "含食品与饮用水级，抗冲击"
 
     - icon: fas fa-shield-alt
-      name: 一体成型防漏
-      content: "吹塑/滚塑成型，桶体无缝更耐用，密封盖/硅胶圈"
+      name: "一体成型"
+      content: "吹塑/滚塑，结构加强更耐用"
 
     - icon: fas fa-sun
-      name: 耐候抗UV
-      content: "-30℃至60℃稳定使用，户外阳光不易老化"
+      name: "耐候抗UV"
+      content: "-30–60℃稳定，户外不易老化"
 
     - icon: fas fa-tint
-      name: 卫生易清洁
-      content: "内壁光滑不挂污，可选食品接触级材料与饮用水级方案"
+      name: "卫生易清洁"
+      content: "内壁光滑不挂污，易冲洗"
 
     - icon: fas fa-th
-      name: 多场景适配
-      content: "圆形/方形/带阀门孔等配置，覆盖用水、化工与食品加工"
+      name: "多场景适配"
+      content: "型式多样，覆盖用水、食品、化工"
 
     - icon: fas fa-layer-group
-      name: 可堆叠/可嵌套
-      content: "堆叠稳固、嵌套收纳，节省仓储体积与运输成本"
+      name: "堆叠与嵌套"
+      content: "堆叠稳固，嵌套回空；省库位、降运费"
 
     - icon: fas fa-recycle
-      name: 环保可回收
-      content: "100% 可回收材料，可提供再生料方案与回收计划对接"
+      name: "环保回收"
+      content: "可回收材质（HDPE/LLDPE）"
 
     - icon: fas fa-shipping-fast
-      name: 快速交付
-      content: "标准规格常备库存，规模化生产保障及时供货"
+      name: "快速交付"
+      content: "常备标准规格；规模产能及时供货"
+
 
 
 ############################# call to action #################################

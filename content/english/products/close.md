@@ -1,7 +1,7 @@
 ---
 title: "HDPE 封闭箱"
 description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
-list_image: "images/products/close/1.jpg"
+list_image: "images/products/close/main.jpg"
 hero_image: "images/products/close/hero.jpg"
 weight: 15          # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整

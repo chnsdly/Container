@@ -3,7 +3,7 @@ title: "PE 多功能盆"
 description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
 list_image: "images/products/pe/main.jpg"
 hero_image: "images/products/pe/hero.jpg"
-weight: 70         # Hugo 排序用
+weight: 25         # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
 
