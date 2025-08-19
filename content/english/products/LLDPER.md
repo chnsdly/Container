@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 周转箱(圆)"
-description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+description: "堆叠稳固、嵌套回空；内壁光滑易清洁"
 list_image: "images/products/lldper/main.jpg"
 hero_image: "images/products/lldper/hero.png"
 weight: 40          # Hugo 排序用

@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 卧式水塔"
-description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+description: "卧式低重心，稳放易固定"
 list_image: "images/products/lldpeh/main.jpg"
 hero_image: "images/products/lldpeh/hero.jpg"
 weight: 70          # Hugo 排序用

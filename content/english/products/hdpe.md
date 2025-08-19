@@ -1,6 +1,6 @@
 ---
 title: "HDPE 周转箱"
-description: "商用/工业级 HDPE 水箱，多尺寸可选；空箱可嵌套，满载堆放更稳，圆角内壁好清洗。"
+description: "多尺寸可选；空箱可嵌套，圆角内壁好清洗。"
 list_image: "images/products/hdpe/main.jpg"
 hero_image: "images/products/hdpe/hero.jpg"
 weight: 10          # Hugo 排序用

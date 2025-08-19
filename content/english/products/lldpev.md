@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 立式水塔"
-description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+description: "大容积，占地小，空间利用更优"
 list_image: "images/products/lldpev/main.jpg"
 hero_image: "images/products/lldpev/hero.jpg"
 weight: 60          # Hugo 排序用

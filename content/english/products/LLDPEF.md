@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 叉车桶"
-description: "一套多尺码，层层嵌套，省空间、省运费、好收纳"
+description: "叉槽加强稳起稳放,抗冲击"
 list_image: "images/products/lldpef/main.jpg"
 hero_image: "images/products/lldpef/hero.jpg"
 weight: 50          # Hugo 排序用

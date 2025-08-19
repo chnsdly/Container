@@ -1,6 +1,6 @@
 ---
 title: "HDPE+POE 周转箱"
-description: "商用/工业级 POE 水箱，多尺寸可选；空箱可嵌套，满载堆放更稳，圆角内壁好清洗。"
+description: "韧性升级，低温不脆裂"
 list_image: "images/products/poe/main.jpg"
 hero_image: "images/products/poe/hero.png"
 weight: 20        # Hugo 排序用
