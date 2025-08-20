@@ -1,85 +1,85 @@
 ---
-title: "客户案例｜生鲜加工中心用塑料容器替换旧周转筐"
+title: "Customer Case | Fresh-produce processing center replaces old rotation crates with plastic containers"
 date: 2023-09-08T11:07:10+06:00
-author: 魏本龙
+author: Wei Benlong
 image : "images/blog/news1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["客户案例"]
-tags: ["生鲜"]
+categories: ["Customer Case"]
+tags: ["Fresh Produce"]
 description: ""
 draft: false
 type: "post"
 ---
 
-> **行业**：生鲜加工与分拣  
-> **地点**：中国 · 苏州  
-> **使用产品**：HDPE周转箱  
-> **使用规模**：约 320 套（30L / 60L / 90L 三种容量）  
-> **实施周期**：2 周试用 + 3 周逐线更换
+> **Industry**: Fresh-produce processing & sorting  
+> **Location**: Suzhou, China  
+> **Product used**: HDPE totes  
+> **Deployment scale**: approx. 320 sets (30L / 60L / 90L)  
+> **Implementation**: 2-week pilot + 3 weeks line-by-line replacement
 
 ---
 
-### 我们为什么要换容器
-我是**苏州某生鲜加工中心的运营主管**，主要做净菜清洗与拣选。之前用的是旧款周转筐和薄壁桶，问题集中在三点：
+### Why we changed containers
+I am the **operations manager at a fresh-produce processing center in Suzhou**, responsible for washing and picking ready-to-cook vegetables. We previously used old rotation crates and thin-wall bins, and three issues kept recurring:
 
-1. **易破裂、起毛刺**：筐边毛刺划伤青菜，员工也容易刮手。  
-2. **清洗效率低**：死角多、挂污重，班末要泡很久才能洗干净。  
-3. **堆放不稳**：湿地面易打滑，堆放歪斜挤压蔬菜，出成率受影响。
+1. **Prone to cracking and burrs**: rim burrs scratched leafy greens and workers’ hands.  
+2. **Low cleaning efficiency**: many dirt traps and heavy residue; prolonged soaking at shift end was needed to clean thoroughly.  
+3. **Unstable stacking**: wet floors caused slippage; skewed stacks compressed produce and reduced yield.
 
-我们决定把高频工序里的容器换成**敞口、厚壁、可嵌套**的型号，重点看**强度、清洁难度、收纳与搬运**。
-
----
-
-### 选型标准与方案
-- **结构**：敞口大口径、**圆角内壁**，无死角；**加筋上沿**，受力更均匀；底部**防滑纹路**。  
-- **材料**：HDPE / LLDPE，耐低温、耐清洗剂；日常冷藏转场不脆裂。  
-- **收纳**：空桶**可嵌套**，回空运输与库位更省；满载可**稳固堆放**。  
-- **尺寸组合**：30L（拣选）、60L（漂洗）、90L三段容量，减少混用。  
-- **颜色管理**：蓝色用于清洗工位，灰色用于暂存，黄色用于废弃叶片，避免交叉。
+We decided to switch high-frequency steps to **open-top, thick-wall, nestable** models, prioritizing **strength, cleanability, storage, and handling**.
 
 ---
 
-### 实施与现场变化
-- 第 1–2 周：以 40 套做 A/B 试用，记录清洁与出成率数据；  
-- 第 3–5 周：按产线逐步切换，培训“**单线单色单容量**”的摆放与回收规则；  
-- 同步替换防滑地垫与台边，减少湿滑引发的翻桶。
+### Selection criteria & solution
+- **Structure**: wide open top with **rounded interior corners** (no dead zones); **reinforced top rim** for even load; **anti-slip texture** on the base.  
+- **Materials**: HDPE / LLDPE, resistant to low temperatures and cleaning agents; no embrittlement during routine cold-chain transfers.  
+- **Storage**: empties **nest** to save backhaul and space; loaded units **stack stably**.  
+- **Size mix**: 30L (picking), 60L (rinsing), 90L capacities to reduce cross-use.  
+- **Color coding**: blue for washing stations, gray for temporary storage, yellow for discarded leaves to avoid cross-contamination.
 
 ---
 
-### 三个月效果（平均值）
+### Implementation & on-site changes
+- Weeks 1–2: A/B pilot with 40 sets; recorded cleaning and yield metrics.  
+- Weeks 3–5: phased line-by-line switch; trained the “**one line · one color · one capacity**” rules for placement and return.  
+- In parallel, replaced anti-slip floor mats and bench edges to reduce tipping on wet surfaces.
 
-| 指标 | 替换前 | 替换后 | 变化 |
+---
+
+### Three-month results (averages)
+
+| Metric | Before | After | Change |
 |---|---:|---:|---:|
-| 人均拣选效率（筐/小时） | 52 | 61 | **+17%** |
-| 清洗用时（每班） | 78 分钟 | 58 分钟 | **-26%** |
-| 蔬菜机械损耗率 | 3.8% | 2.5% | **-1.3 pct** |
-| 容器月破损率 | 7.2% | 2.1% | **-5.1 pct** |
-| 回空运输装载量 | 基准 | 提升 23% | **嵌套回空** |
+| Per-capita picking efficiency (totes/hour) | 52 | 61 | **+17%** |
+| Cleaning time (per shift) | 78 minutes | 58 minutes | **-26%** |
+| Vegetable mechanical loss rate | 3.8% | 2.5% | **-1.3 pp** |
+| Monthly container breakage rate | 7.2% | 2.1% | **-5.1 pp** |
+| Backhaul load capacity | Baseline | +23% | **Nested backhaul** |
 
-> 以**单站点**估算：每月节约约 **92 工时**（用于拣选与清洁），容器报废成本下降 **68%**；旺季高峰时在同样库位下多备货 **12–15%**。
-
----
-
-### 现场反馈（节选）
-> “敞口和圆角设计最直接。洗筐不再卡菜叶，晚上下班能按时走人。嵌套回空省车次，雨天码垛也稳。没有盖子反而好操作，班组之间交接更快。”
-
-— **王某某** · 生鲜加工中心运营主管
+> Single-site estimate: saves about **92 labor-hours** per month (picking + cleaning); container scrappage cost down **68%**; at peak season, **12–15%** more stock within the same storage footprint.
 
 ---
 
-### 我们学到的三点
-1. **开口越大，流程越顺**：敞口便于快速装卸、目视检查与冲洗。  
-2. **颜色就是规则**：用颜色固定工位与用途，管理成本显著降低。  
-3. **嵌套≠松散**：只要上沿加筋、底部防滑，满载堆放依旧稳（我们定了 3 层上限）。
+### On-site feedback (excerpt)
+> “The open top and rounded corners make the most immediate difference. Leaves no longer snag during washing, and staff can leave on time. Nesting cuts trips, and stacks stay stable even in rain. Working without lids is easier and speeds handovers between teams.”
+
+— **Wang Moumou** · Operations Manager, fresh-produce processing center
 
 ---
 
-### 结论与下一步
-- 敞口、无盖的组合更适合我们这种**快进快出**的净菜场景；  
-- 计划将称重前后的暂存都统一为 60L型号，减少来回倒运；  
-- 与供应商讨论**耐低温配方**和**更深的防滑纹路**，为冬季夜间转场做准备。
+### Three takeaways
+1. **The larger the opening, the smoother the flow**: faster loading/unloading, visual checks, and rinsing.  
+2. **Color equals rule**: fix workstations and uses by color—management cost drops markedly.  
+3. **Nestable ≠ flimsy**: with a reinforced rim and anti-slip base, loaded stacks remain stable (we set a three-tier limit).
 
 ---
 
-> **授权声明**：本文为客户自述并已授权发布；数据取自 2025 年 4–6 月的现场记录与统计。  
-> **联系**：如需获取同类场景的容量建议与上沿/底部结构对比图，请联系我司销售或技术支持。
+### Conclusion & next steps
+- Open, lidless containers fit our **fast-throughput** vegetable processing.  
+- Plan to standardize temporary storage before/after weighing to the 60L model to reduce shuttling.  
+- Discuss **low-temperature formulations** and **deeper anti-slip textures** with the supplier for winter night transfers.
+
+---
+
+> **Authorization**: This article is the customer’s own account, published with permission; data are from on-site records and statistics from April–June 2025.  
+> **Contact**: For capacity recommendations and rim/base structure comparisons for similar scenarios, please contact our sales or technical support.

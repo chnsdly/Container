@@ -1,53 +1,50 @@
 ---
-title: "LLDPE 叉车桶"
-description: "叉槽加强稳起稳放,抗冲击"
+title: "LLDPE Forklift Tank"
+description: "Reinforced fork channels for stable lifting and placement; impact resistant"
 list_image: "images/products/lldpef/main.jpg"
 hero_image: "images/products/lldpef/hero.jpg"
-weight: 50          # Hugo 排序用
-type:   "products" # 可按你现有 taxonomies 调整
-specs_heading: "规格总表"
+weight: 50          # For Hugo sorting
+type:   "products"  # Adjust per your existing taxonomies
+specs_heading: "Specification Summary"
 
 features:
-  - title: "HDPE 材质"
-    text: "高韧耐冲击，内壁光滑不易挂污，长期使用不易老化。"
+  - title: "HDPE Material"
+    text: "High toughness and impact resistance; smooth inner walls resist residue; minimal aging in long-term use."
 
-  - title: "可嵌套省空间"
-    text: "空箱相互嵌套，装载率更高、周转更高效。"
+  - title: "Nestable to Save Space"
+    text: "Empty bins nest, increasing load factor and turnover efficiency."
 
-  - title: "支持定制"
-    text: "颜色/Logo 可选；量产交付稳定、全流程可追溯。"
+  - title: "Customization Available"
+    text: "Color/capacity/Logo options; stable mass-production delivery."
 
 showcase:
   enable: true
-  gallery_heading: "产品展示"
+  gallery_heading: "Product Showcase"
   items:
     - image: "images/products/lldpef/1.jpg"
-      title: "LLDPE 叉车桶"
-      content: "LLDPE 滚塑一体成型；叉槽加强，起运稳固"
+      title: "LLDPE Forklift Tank"
+      content: "One-piece rotationally molded LLDPE; reinforced fork channels for stable lifting and transport."
     - image: "images/products/lldpef/2.jpg"
-      title: "边缘加厚更结实"
-      content: "装卸冲击下不易变形，长期使用更耐久"
-
+      title: "Thickened Rim for Greater Strength"
+      content: "Resists deformation under handling impacts; more durable in long-term use."
 
 spec_headers:
-  - { key: "model",     label: "型号" }
-  - { key: "mouth_dia", label: "口径 (cm)" }
-  - { key: "height",    label: "高度 (cm)" }
-  - { key: "volume",    label: "容积 (L)" }
-  - { key: "material",  label: "原料" }
-  - { key: "process",   label: "生产工艺" }
-  - { key: "color",     label: "颜色" }
+  - { key: "model",     label: "Model" }
+  - { key: "mouth_dia", label: "Mouth Diameter (cm)" }
+  - { key: "height",    label: "Height (cm)" }
+  - { key: "volume",    label: "Volume (L)" }
+  - { key: "material",  label: "Material" }
+  - { key: "process",   label: "Process" }
+  - { key: "color",     label: "Color" }
 
 specs:
 
-  - { model: PCPE500F,  mouth_dia: , height: , volume: 500,  material: PE, process: 吹塑, color: 白 / 蓝 }
-  - { model: PCPE600F,  mouth_dia: , height: , volume: 600,  material: PE, process: 吹塑, color: 白 / 蓝 }
-  - { model: PCPE800F,  mouth_dia: , height: , volume: 800,  material: PE, process: 吹塑, color: 白 / 蓝 }
-  - { model: PCPE1000F, mouth_dia: , height: , volume: 1000, material: PE, process: 吹塑, color: 白 / 蓝 }
-  - { model: PCPE1200F, mouth_dia: , height: , volume: 1200, material: PE, process: 吹塑, color: 白 / 蓝 }
-  - { model: PCPE1500F, mouth_dia: , height: , volume: 1500, material: PE, process: 吹塑, color: 白 / 蓝 }
-  - { model: PCPE2000F, mouth_dia: , height: , volume: 2000, material: PE, process: 吹塑, color: 白 / 蓝 }
-
-
+  - { model: PCPE500F,  mouth_dia: , height: , volume: 500,  material: PE, process: Blow molding, color: White / Blue }
+  - { model: PCPE600F,  mouth_dia: , height: , volume: 600,  material: PE, process: Blow molding, color: White / Blue }
+  - { model: PCPE800F,  mouth_dia: , height: , volume: 800,  material: PE, process: Blow molding, color: White / Blue }
+  - { model: PCPE1000F, mouth_dia: , height: , volume: 1000, material: PE, process: Blow molding, color: White / Blue }
+  - { model: PCPE1200F, mouth_dia: , height: , volume: 1200, material: PE, process: Blow molding, color: White / Blue }
+  - { model: PCPE1500F, mouth_dia: , height: , volume: 1500, material: PE, process: Blow molding, color: White / Blue }
+  - { model: PCPE2000F, mouth_dia: , height: , volume: 2000, material: PE, process: Blow molding, color: White / Blue }
 
 ---

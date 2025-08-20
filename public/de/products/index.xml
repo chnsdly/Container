@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Palettenprodukte on Baoheng | Pallet</title>
+    <title>塑料容器 on Baoheng | Box</title>
     <link>http://localhost:1313/de/products/</link>
-    <description>Recent content in Palettenprodukte on Baoheng | Pallet</description>
+    <description>Recent content in 塑料容器 on Baoheng | Box</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <atom:link href="http://localhost:1313/de/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nestbare Gitterdeckpalette mit 9 Füßen</title>
-      <link>http://localhost:1313/de/products/open-9leg/</link>
+      <title>HDPE-Mehrwegkiste</title>
+      <link>http://localhost:1313/de/products/hdpe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/open-9leg/</guid>
+      <guid>http://localhost:1313/de/products/hdpe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Gitterdeckpalette mit 3 Längskufen</title>
-      <link>http://localhost:1313/de/products/open-triple/</link>
+      <title>HDPE-Box mit Deckel</title>
+      <link>http://localhost:1313/de/products/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/open-triple/</guid>
+      <guid>http://localhost:1313/de/products/close/</guid>
       <description></description>
     </item>
     <item>
-      <title>Gitterdeckpalette mit umlaufendem Rahmen</title>
-      <link>http://localhost:1313/de/products/open-grid/</link>
+      <title>HDPE&#43;POE-Mehrwegkisten</title>
+      <link>http://localhost:1313/de/products/poe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/open-grid/</guid>
+      <guid>http://localhost:1313/de/products/poe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Wendbare Gitterdeckpalette (beidseitig)</title>
-      <link>http://localhost:1313/de/products/open-rever/</link>
+      <title>PE-Mehrzweckwanne</title>
+      <link>http://localhost:1313/de/products/pe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/open-rever/</guid>
+      <guid>http://localhost:1313/de/products/pe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Vollflächendeckpalette</title>
-      <link>http://localhost:1313/de/products/solid/</link>
+      <title>LLDPE-Mehrwegkisten</title>
+      <link>http://localhost:1313/de/products/lldpes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/solid/</guid>
+      <guid>http://localhost:1313/de/products/lldpes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Blasformpaletten</title>
-      <link>http://localhost:1313/de/products/blow/</link>
+      <title>LLDPE-Mehrwegkisten (Rund)</title>
+      <link>http://localhost:1313/de/products/lldper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/blow/</guid>
+      <guid>http://localhost:1313/de/products/lldper/</guid>
       <description></description>
     </item>
     <item>
-      <title>Spezialpalette für Druckmaschinen</title>
-      <link>http://localhost:1313/de/products/print/</link>
+      <title>LLDPE-Gabelstaplertank</title>
+      <link>http://localhost:1313/de/products/lldpef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/print/</guid>
+      <guid>http://localhost:1313/de/products/lldpef/</guid>
       <description></description>
     </item>
     <item>
-      <title>Auffangpaletten für Gefahrstoffe</title>
-      <link>http://localhost:1313/de/products/leak/</link>
+      <title>Vertikaler LLDPE-Wassertank</title>
+      <link>http://localhost:1313/de/products/lldpev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/leak/</guid>
+      <guid>http://localhost:1313/de/products/lldpev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Boxpaletten</title>
-      <link>http://localhost:1313/de/products/box/</link>
+      <title>Horizontaler LLDPE-Wassertank</title>
+      <link>http://localhost:1313/de/products/lldpeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/products/box/</guid>
+      <guid>http://localhost:1313/de/products/lldpeh/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fresh Produce on Baoheng | Box</title>
+    <link>http://localhost:1313/tags/fresh-produce/</link>
+    <description>Recent content in Fresh Produce on Baoheng | Box</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 08 Sep 2023 11:07:10 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fresh-produce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Case | Fresh-produce processing center replaces old rotation crates with plastic containers</title>
+      <link>http://localhost:1313/blog/blog-post-1/</link>
+      <pubDate>Fri, 08 Sep 2023 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/blog/blog-post-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Industry&lt;/strong&gt;: Fresh-produce processing &amp;amp; sorting&lt;br&gt;&#xA;&lt;strong&gt;Location&lt;/strong&gt;: Suzhou, China&lt;br&gt;&#xA;&lt;strong&gt;Product used&lt;/strong&gt;: HDPE totes&lt;br&gt;&#xA;&lt;strong&gt;Deployment scale&lt;/strong&gt;: approx. 320 sets (30L / 60L / 90L)&lt;br&gt;&#xA;&lt;strong&gt;Implementation&lt;/strong&gt;: 2-week pilot + 3 weeks line-by-line replacement&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

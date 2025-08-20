@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Produits Frais on Baoheng | Box</title>
+    <link>http://localhost:1313/fr/tags/produits-frais/</link>
+    <description>Recent content in Produits Frais on Baoheng | Box</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 08 Sep 2023 11:07:10 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/produits-frais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Étude de cas client | Un centre de produits frais remplace ses anciennes caisses de rotation par des contenants plastiques</title>
+      <link>http://localhost:1313/fr/blog/blog-post-1/</link>
+      <pubDate>Fri, 08 Sep 2023 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/fr/blog/blog-post-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Secteur&lt;/strong&gt; : Transformation et tri de produits frais&lt;br&gt;&#xA;&lt;strong&gt;Lieu&lt;/strong&gt; : Suzhou, Chine&lt;br&gt;&#xA;&lt;strong&gt;Produit utilisé&lt;/strong&gt; : Caisses HDPE&lt;br&gt;&#xA;&lt;strong&gt;Déploiement&lt;/strong&gt; : env. 320 ensembles (30L / 60L / 90L)&lt;br&gt;&#xA;&lt;strong&gt;Calendrier&lt;/strong&gt; : pilote de 2 semaines + 3 semaines de remplacement ligne par ligne&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -46,40 +46,40 @@ featured_service:
 ############################# Service ###############################
 service:
   enable: true
-  title: "产品核心优势"
-  description: "专业塑料容器制造，赋能储存、搬运与卫生管理"
+  title: "Core Product Advantages"
+  description: "Professional plastic container manufacturing that enhances storage, handling, and hygiene management"
   service_item:
     - icon: fas fa-cubes
-      name: "材质与合规"
-      content: "含食品与饮用水级，抗冲击"
+      name: "Materials & Compliance"
+      content: "Includes food- and drinking-water grades; impact resistant"
 
     - icon: fas fa-shield-alt
-      name: "一体成型"
-      content: "吹塑/滚塑，结构加强更耐用"
+      name: "One-Piece Molding"
+      content: "Blow molding/rotational molding; reinforced structure for greater durability"
 
     - icon: fas fa-sun
-      name: "耐候抗UV"
-      content: "-30–60℃稳定，户外不易老化"
+      name: "Weather & UV Resistance"
+      content: "Stable from -30–60℃; resists outdoor aging"
 
     - icon: fas fa-tint
-      name: "卫生易清洁"
-      content: "内壁光滑不挂污，易冲洗"
+      name: "Hygienic & Easy to Clean"
+      content: "Smooth inner walls resist residue; easy to rinse"
 
     - icon: fas fa-th
-      name: "多场景适配"
-      content: "型式多样，覆盖用水、食品、化工"
+      name: "Multi-Scenario Fit"
+      content: "Multiple form factors; suited to water, food, and chemical uses"
 
     - icon: fas fa-layer-group
-      name: "堆叠与嵌套"
-      content: "堆叠稳固，嵌套回空；省库位、降运费"
+      name: "Stacking & Nesting"
+      content: "Stable stacking; nestable for return—saves storage and reduces freight"
 
     - icon: fas fa-recycle
-      name: "环保回收"
-      content: "可回收材质（HDPE/LLDPE）"
+      name: "Eco-Friendly Recycling"
+      content: "Recyclable materials (HDPE/LLDPE)"
 
     - icon: fas fa-shipping-fast
-      name: "快速交付"
-      content: "常备标准规格；规模产能及时供货"
+      name: "Rapid Delivery"
+      content: "Standard SKUs kept in stock; scaled capacity for timely supply"
 
 
 

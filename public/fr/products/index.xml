@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Produits de palettes on Baoheng | Pallet</title>
+    <title>塑料容器 on Baoheng | Box</title>
     <link>http://localhost:1313/fr/products/</link>
-    <description>Recent content in Produits de palettes on Baoheng | Pallet</description>
+    <description>Recent content in 塑料容器 on Baoheng | Box</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <atom:link href="http://localhost:1313/fr/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Palette ajourée 9 plots emboîtable</title>
-      <link>http://localhost:1313/fr/products/open-9leg/</link>
+      <title>Bac de manutention HDPE</title>
+      <link>http://localhost:1313/fr/products/hdpe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/open-9leg/</guid>
+      <guid>http://localhost:1313/fr/products/hdpe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palette ajourée 3 semelles longitudinales</title>
-      <link>http://localhost:1313/fr/products/open-triple/</link>
+      <title>Caisse fermée HDPE</title>
+      <link>http://localhost:1313/fr/products/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/open-triple/</guid>
+      <guid>http://localhost:1313/fr/products/close/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palette ajourée base périmétrique</title>
-      <link>http://localhost:1313/fr/products/open-grid/</link>
+      <title>Bacs de manutention HDPE&#43;POE</title>
+      <link>http://localhost:1313/fr/products/poe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/open-grid/</guid>
+      <guid>http://localhost:1313/fr/products/poe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palette ajourée double face réversible</title>
-      <link>http://localhost:1313/fr/products/open-rever/</link>
+      <title>Bassin polyvalent en PE</title>
+      <link>http://localhost:1313/fr/products/pe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/open-rever/</guid>
+      <guid>http://localhost:1313/fr/products/pe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palette pleine</title>
-      <link>http://localhost:1313/fr/products/solid/</link>
+      <title>Bacs de manutention LLDPE</title>
+      <link>http://localhost:1313/fr/products/lldpes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/solid/</guid>
+      <guid>http://localhost:1313/fr/products/lldpes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palettes soufflées</title>
-      <link>http://localhost:1313/fr/products/blow/</link>
+      <title>Bacs de manutention LLDPE (Ronds)</title>
+      <link>http://localhost:1313/fr/products/lldper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/blow/</guid>
+      <guid>http://localhost:1313/fr/products/lldper/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palette dédiée aux presses d’impression</title>
-      <link>http://localhost:1313/fr/products/print/</link>
+      <title>Réservoir LLDPE pour chariot élévateur</title>
+      <link>http://localhost:1313/fr/products/lldpef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/print/</guid>
+      <guid>http://localhost:1313/fr/products/lldpef/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palettes de rétention pour produits dangereux</title>
-      <link>http://localhost:1313/fr/products/leak/</link>
+      <title>Réservoir d’eau vertical en LLDPE</title>
+      <link>http://localhost:1313/fr/products/lldpev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/leak/</guid>
+      <guid>http://localhost:1313/fr/products/lldpev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palettes-caisses</title>
-      <link>http://localhost:1313/fr/products/box/</link>
+      <title>Réservoir d’eau horizontal en LLDPE</title>
+      <link>http://localhost:1313/fr/products/lldpeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/products/box/</guid>
+      <guid>http://localhost:1313/fr/products/lldpeh/</guid>
       <description></description>
     </item>
   </channel>

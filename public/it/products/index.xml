@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prodotti Pallet on Baoheng | Pallet</title>
+    <title>塑料容器 on Baoheng | Box</title>
     <link>http://localhost:1313/it/products/</link>
-    <description>Recent content in Prodotti Pallet on Baoheng | Pallet</description>
+    <description>Recent content in 塑料容器 on Baoheng | Box</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
     <atom:link href="http://localhost:1313/it/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pallet a griglia con 9 piedini nestabile</title>
-      <link>http://localhost:1313/it/products/open-9leg/</link>
+      <title>Cassetta di movimentazione in HDPE</title>
+      <link>http://localhost:1313/it/products/hdpe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/open-9leg/</guid>
+      <guid>http://localhost:1313/it/products/hdpe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pallet a griglia con 3 longheroni</title>
-      <link>http://localhost:1313/it/products/open-triple/</link>
+      <title>Contenitore chiuso in HDPE</title>
+      <link>http://localhost:1313/it/products/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/open-triple/</guid>
+      <guid>http://localhost:1313/it/products/close/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pallet a griglia con base perimetrale</title>
-      <link>http://localhost:1313/it/products/open-grid/</link>
+      <title>Cassette HDPE&#43;POE per movimentazione</title>
+      <link>http://localhost:1313/it/products/poe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/open-grid/</guid>
+      <guid>http://localhost:1313/it/products/poe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pallet a griglia doppia faccia reversibile</title>
-      <link>http://localhost:1313/it/products/open-rever/</link>
+      <title>Bacinella multifunzione in PE</title>
+      <link>http://localhost:1313/it/products/pe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/open-rever/</guid>
+      <guid>http://localhost:1313/it/products/pe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pallet a piano pieno</title>
-      <link>http://localhost:1313/it/products/solid/</link>
+      <title>Cassette di movimentazione in LLDPE</title>
+      <link>http://localhost:1313/it/products/lldpes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/solid/</guid>
+      <guid>http://localhost:1313/it/products/lldpes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pallet soffiati</title>
-      <link>http://localhost:1313/it/products/blow/</link>
+      <title>Cassette LLDPE (Rotonde)</title>
+      <link>http://localhost:1313/it/products/lldper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/blow/</guid>
+      <guid>http://localhost:1313/it/products/lldper/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pallet dedicato a macchine da stampa</title>
-      <link>http://localhost:1313/it/products/print/</link>
+      <title>Serbatoio LLDPE per carrello elevatore</title>
+      <link>http://localhost:1313/it/products/lldpef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/print/</guid>
+      <guid>http://localhost:1313/it/products/lldpef/</guid>
       <description></description>
     </item>
     <item>
-      <title>Bancali di contenimento per materiali pericolosi</title>
-      <link>http://localhost:1313/it/products/leak/</link>
+      <title>Serbatoio verticale in LLDPE</title>
+      <link>http://localhost:1313/it/products/lldpev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/leak/</guid>
+      <guid>http://localhost:1313/it/products/lldpev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Pallet a cassa</title>
-      <link>http://localhost:1313/it/products/box/</link>
+      <title>Serbatoio orizzontale in LLDPE</title>
+      <link>http://localhost:1313/it/products/lldpeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/products/box/</guid>
+      <guid>http://localhost:1313/it/products/lldpeh/</guid>
       <description></description>
     </item>
   </channel>

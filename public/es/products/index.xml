@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Productos de Palés on Baoheng | Pallet</title>
+    <title>塑料容器 on Baoheng | Box</title>
     <link>http://localhost:1313/es/products/</link>
-    <description>Recent content in Productos de Palés on Baoheng | Pallet</description>
+    <description>Recent content in 塑料容器 on Baoheng | Box</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <atom:link href="http://localhost:1313/es/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Palé rejilla de 9 patas encajable</title>
-      <link>http://localhost:1313/es/products/open-9leg/</link>
+      <title>Caja de HDPE para manutención</title>
+      <link>http://localhost:1313/es/products/hdpe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/open-9leg/</guid>
+      <guid>http://localhost:1313/es/products/hdpe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palé rejilla de 3 patines longitudinales</title>
-      <link>http://localhost:1313/es/products/open-triple/</link>
+      <title>Caja cerrada de HDPE</title>
+      <link>http://localhost:1313/es/products/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/open-triple/</guid>
+      <guid>http://localhost:1313/es/products/close/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palé rejilla de base perimetral</title>
-      <link>http://localhost:1313/es/products/open-grid/</link>
+      <title>Cajas de manutención HDPE&#43;POE</title>
+      <link>http://localhost:1313/es/products/poe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/open-grid/</guid>
+      <guid>http://localhost:1313/es/products/poe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palé rejilla de doble cara reversible</title>
-      <link>http://localhost:1313/es/products/open-rever/</link>
+      <title>Batea multifunción de PE</title>
+      <link>http://localhost:1313/es/products/pe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/open-rever/</guid>
+      <guid>http://localhost:1313/es/products/pe/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palé cubierta lisa</title>
-      <link>http://localhost:1313/es/products/solid/</link>
+      <title>Cajas de LLDPE para manutención</title>
+      <link>http://localhost:1313/es/products/lldpes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/solid/</guid>
+      <guid>http://localhost:1313/es/products/lldpes/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palés soplados</title>
-      <link>http://localhost:1313/es/products/blow/</link>
+      <title>Cajas de LLDPE (Redondas)</title>
+      <link>http://localhost:1313/es/products/lldper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/blow/</guid>
+      <guid>http://localhost:1313/es/products/lldper/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palé dedicado para máquinas de impresión</title>
-      <link>http://localhost:1313/es/products/print/</link>
+      <title>Depósito LLDPE para carretilla elevadora</title>
+      <link>http://localhost:1313/es/products/lldpef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/print/</guid>
+      <guid>http://localhost:1313/es/products/lldpef/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palés de contención para materiales peligrosos</title>
-      <link>http://localhost:1313/es/products/leak/</link>
+      <title>Depósito vertical de LLDPE</title>
+      <link>http://localhost:1313/es/products/lldpev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/leak/</guid>
+      <guid>http://localhost:1313/es/products/lldpev/</guid>
       <description></description>
     </item>
     <item>
-      <title>Palés tipo caja</title>
-      <link>http://localhost:1313/es/products/box/</link>
+      <title>Depósito horizontal de LLDPE</title>
+      <link>http://localhost:1313/es/products/lldpeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/products/box/</guid>
+      <guid>http://localhost:1313/es/products/lldpeh/</guid>
       <description></description>
     </item>
   </channel>

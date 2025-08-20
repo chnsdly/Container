@@ -8,63 +8,63 @@
     <language>en-US</language>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HDPE 周转箱</title>
+      <title>HDPE Totes</title>
       <link>http://localhost:1313/products/hdpe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/hdpe/</guid>
       <description></description>
     </item>
     <item>
-      <title>HDPE 封闭箱</title>
+      <title>HDPE Closed Box</title>
       <link>http://localhost:1313/products/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/close/</guid>
       <description></description>
     </item>
     <item>
-      <title>HDPE&#43;POE 周转箱</title>
+      <title>HDPE&#43;POE Totes</title>
       <link>http://localhost:1313/products/poe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/poe/</guid>
       <description></description>
     </item>
     <item>
-      <title>PE 多功能盆</title>
+      <title>PE Multi-purpose Basin</title>
       <link>http://localhost:1313/products/pe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/pe/</guid>
       <description></description>
     </item>
     <item>
-      <title>LLDPE 周转箱</title>
+      <title>LLDPE Totes</title>
       <link>http://localhost:1313/products/lldpes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/lldpes/</guid>
       <description></description>
     </item>
     <item>
-      <title>LLDPE 周转箱(圆)</title>
+      <title>LLDPE Round Totes</title>
       <link>http://localhost:1313/products/lldper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/lldper/</guid>
       <description></description>
     </item>
     <item>
-      <title>LLDPE 叉车桶</title>
+      <title>LLDPE Forklift Tank</title>
       <link>http://localhost:1313/products/lldpef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/lldpef/</guid>
       <description></description>
     </item>
     <item>
-      <title>LLDPE 立式水塔</title>
+      <title>LLDPE Vertical Water Tank</title>
       <link>http://localhost:1313/products/lldpev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/lldpev/</guid>
       <description></description>
     </item>
     <item>
-      <title>LLDPE 卧式水塔</title>
+      <title>LLDPE Horizontal Water Tank</title>
       <link>http://localhost:1313/products/lldpeh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/products/lldpeh/</guid>

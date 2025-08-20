@@ -1,6 +1,6 @@
 ---
-title: "客户案例"
-description: "捕捉行业风向，发布市场布局与合作成果。"
+title: "Customer Case Studies"
+description: "Spotlighting industry trends and presenting our market footprint and partnership outcomes."
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---

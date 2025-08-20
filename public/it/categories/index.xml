@@ -6,6 +6,14 @@
     <description>Recent content in Categories on Baoheng | Box</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
+    <lastBuildDate>Fri, 08 Sep 2023 11:07:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caso Cliente</title>
+      <link>http://localhost:1313/it/categories/caso-cliente/</link>
+      <pubDate>Fri, 08 Sep 2023 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/it/categories/caso-cliente/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
