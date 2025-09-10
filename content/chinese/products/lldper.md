@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 周转箱(圆)"
-description: "堆叠稳固、嵌套回空；内壁光滑易清洁"
+description: "耐高温，耐低温，耐酸碱，耐腐蚀，使用寿命长"
 list_image: "images/products/lldper/main.jpg"
 hero_image: "images/products/lldper/hero.png"
 weight: 40          # Hugo 排序用

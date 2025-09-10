@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 叉车桶"
-description: "叉槽加强稳起稳放,抗冲击"
+description: "耐高温，耐低温，耐酸碱，耐腐蚀，使用寿命长"
 list_image: "images/products/lldpef/main.jpg"
 hero_image: "images/products/lldpef/hero.jpg"
 weight: 50          # Hugo 排序用

@@ -41,20 +41,61 @@ products:
   enable: true
   items:
     - name: "尺寸：635*410*370mm"
-      specs: "Size: 635*410*370mm | Weight: 4kg | Dynamic load: 0.6t"
       image: "images/products/close/635.jpg"
-
     - name: "尺寸：700*480*410mm"
-      specs: "Size: 700*480*410mm | Weight: 7kg | Dynamic load: 0.5t"
       image: "images/products/close/700.jpg"
-
     - name: "尺寸：740*565*400mm"
-      specs: "Size: 740*565*400mm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
       image: "images/products/close/740.jpg"
-
     - name: "尺寸：820*565*505mm"
-      specs: "Size: 820*565*505mm | Weight: 7/9kg | Dynamic load: 0.5/0.7t"
       image: "images/products/close/820.jpg"
+    - name: "尺寸：520*360*230mm"
+      image: "images/products/close/520c.jpg"
+    - name: "尺寸：595*415*220mm"
+      image: "images/products/close/595c2.jpg"
+    - name: "尺寸：540*415*275mm"
+      image: "images/products/close/540c.jpg"
+    - name: "尺寸：595*493*340mm"
+      image: "images/products/close/595c.jpg"
+    - name: "尺寸：710*550*375mm"
+      image: "images/products/close/710c.jpg"
+
+    - name: "尺寸：390*280*120mm"
+      image: "images/products/close/390b.jpg"
+    - name: "尺寸：410*285*185mm"
+      image: "images/products/close/410b.jpg"
+    - name: "尺寸：410*285*185mm"
+      image: "images/products/close/410w.jpg"
+    - name: "尺寸：445*300*150mm"
+      image: "images/products/close/445b.jpg"
+    - name: "尺寸：445*300*150mm"
+      image: "images/products/close/445r.jpg"
+    - name: "尺寸：445*300*150mm"
+      image: "images/products/close/445w.jpg"
+    - name: "尺寸：445*300*150mm"
+      image: "images/products/close/445y.jpg"
+    - name: "尺寸：475*315*125mm"
+      image: "images/products/close/475b.jpg"
+    - name: "尺寸：475*315*125mm"
+      image: "images/products/close/475w.jpg"
+    - name: "尺寸：515*365*175mm"
+      image: "images/products/close/515b.jpg"
+    - name: "尺寸：515*365*175mm"
+      image: "images/products/close/515g.jpg"
+    - name: "尺寸：515*365*175mm"
+      image: "images/products/close/515w.jpg"
+
+    - name: "尺寸：370*248*60mm"
+      image: "images/products/close/370q.jpg"
+    - name: "尺寸：465*305*70mm"
+      image: "images/products/close/465q.jpg"
+    - name: "尺寸：555*365*80mm"
+      image: "images/products/close/555q.jpg"
+    - name: "尺寸：595*415*120mm"
+      image: "images/products/close/595q.jpg"
+    - name: "尺寸：615*415*90mm"
+      image: "images/products/close/615q.jpg"
+
+
 
 spec_headers:
   - { key: "model",          label: "型号" }

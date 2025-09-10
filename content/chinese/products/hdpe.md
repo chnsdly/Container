@@ -28,7 +28,7 @@ showcase:
     - image: "images/products/hdpe/ss.jpg"
       title: "HDPE 小型周转箱（3.5–22 L）"
       content:  "小批量取用与分装更灵活，便于快进快出；可嵌套回空省库位，日清日洗不易挂污。"
-    - image: "images/products/hdpe/under.jpg"
+    - image: "images/products/hdpe/box.jpg"
       title: "底部加强筋结构"
       content:  "交错筋条提升抗压与抗冲击，底纹增强湿地面摩擦力；受力更均匀，满载堆放更稳。"
     - image: "images/products/hdpe/work.jpg"
@@ -77,19 +77,19 @@ products:
       image: "images/products/hdpe/550.jpg"
 
 
-    - name: "30L"
+    - name: "30L带盖"
       specs: "Size: 80*80*15cm"
       image: "images/products/hdpe/30ll.jpg"
-    - name: "40L"
+    - name: "50L带盖"
       specs: "Size: 80*80*15cm"
       image: "images/products/hdpe/60ll.jpg"
-    - name: "50L"
+    - name: "60L带盖"
       specs: "Size: 80*80*15cm"
       image: "images/products/hdpe/90ll.jpg"
-    - name: "50L"
+    - name: "90L"
       specs: "Size: 80*80*15cm"
       image: "images/products/hdpe/120ll.jpg"
-    - name: "30L"
+    - name: "120L"
       specs: "Size: 80*80*15cm"
       image: "images/products/hdpe/160ll.jpg"
     - name: "40L"
@@ -101,6 +101,23 @@ products:
     - name: "50L"
       specs: "Size: 80*80*15cm"
       image: "images/products/hdpe/400ll.jpg"
+
+    - name: "340"
+      specs: "Size: 34*26.5*13cm"
+      image: "images/products/hdpe/340b.jpg"
+    - name: "405"
+      specs: "Size: 40.5*30.5*14.5cm"
+      image: "images/products/hdpe/405b.jpg"
+    - name: "515"
+      specs: "Size: 51.5*34.5*15cm"
+      image: "images/products/hdpe/515b.jpg"
+    - name: "650"
+      specs: "Size: 65*40.5*15.5cm"
+      image: "images/products/hdpe/650b.jpg"
+    - name: "715"
+      specs: "Size: 71.5*45*17.5cm"
+      image: "images/products/hdpe/715b.jpg"
+
 
 spec_headers:
   - { key: "model",     label: "型号" }
@@ -126,14 +143,15 @@ specs:
   - { model: PCPE21F, size: 495 * 345 * 120,  volume: 20, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
   - { model: PCPE22F, size: 550 * 350 * 115,  volume: 22, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
   - { model: 大容量系列：,  size: ,   volume: ,  material: , process: , color:  }
-  - { model: PCPE30F,  size: 485 * 345 * 250, volume: 30,  material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
-  - { model: PCPE60F,  size: 580 * 440 * 285, volume: 60,  material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
+  - { model: PCPE30F,  size: 485 * 345 * 250, volume: 30G,  material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
+  - { model: PCPE30F,  size: 540 * 395 * 280, volume: 50G,  material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
+  - { model: PCPE60F,  size: 580 * 440 * 285, volume: 60G,  material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
   - { model: PCPE90F,  size: 670 * 460 * 350, volume: 90,  material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
   - { model: PCPE120F, size: 710 * 500 * 375, volume: 120, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
-  - { model: PCPE160F, size: 770 * 560 * 460, volume: 160, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
+  - { model: PCPE160F, size: 770 * 560 * 460, volume: 160G, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
   - { model: PCPE200F, size: 790 * 585 * 560, volume: 200, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
-  - { model: PCPE300F, size: 840 * 640 * 600, volume: 300, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
-  - { model: PCPE400F, size: 970 * 760 * 660, volume: 400, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
+  - { model: PCPE300F, size: 840 * 640 * 600, volume: 300G, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
+  - { model: PCPE400F, size: 970 * 760 * 660, volume: 400G, material: HDPE, process: 注塑, color: 红 / 蓝 / 白 }
 
   # ……按需增删字段，表头同步更新
 

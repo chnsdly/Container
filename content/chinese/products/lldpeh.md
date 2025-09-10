@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 卧式水塔"
-description: "卧式低重心，稳放易固定"
+description: "耐高温，耐低温，耐酸碱，耐腐蚀，使用寿命长"
 list_image: "images/products/lldpeh/main.jpg"
 hero_image: "images/products/lldpeh/hero.jpg"
 weight: 70          # Hugo 排序用

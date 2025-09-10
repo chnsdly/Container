@@ -1,6 +1,6 @@
 ---
 title: "LLDPE 立式水塔"
-description: "大容积，占地小，空间利用更优"
+description: "耐高温，耐低温，耐酸碱，耐腐蚀，使用寿命长"
 list_image: "images/products/lldpev/main.jpg"
 hero_image: "images/products/lldpev/hero.jpg"
 weight: 60          # Hugo 排序用

@@ -1,6 +1,6 @@
 ---
-title: "LLDPE 周转箱"
-description: "多尺寸可选；空箱可嵌套"
+title: "LLDPE 多用途周转箱"
+description: "耐高温，耐低温，耐酸碱，耐腐蚀，使用寿命长"
 list_image: "images/products/lldpes/main.jpg"
 hero_image: "images/products/lldpes/hero.jpg"
 weight: 30          # Hugo 排序用
