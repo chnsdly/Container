@@ -99,6 +99,22 @@ products:
       specs: "Size: 80*80*15cm"
       image: "images/products/hdpe/400ll.jpg"
 
+    - name: "340"
+      specs: "Dimensions: 34*26.5*13cm"
+      image: "images/products/hdpe/340b.jpg"
+    - name: "405"
+      specs: "Dimensions: 40.5*30.5*14.5cm"
+      image: "images/products/hdpe/405b.jpg"
+    - name: "515"
+      specs: "Dimensions: 51.5*34.5*15cm"
+      image: "images/products/hdpe/515b.jpg"
+    - name: "650"
+      specs: "Dimensions: 65*40.5*15.5cm"
+      image: "images/products/hdpe/650b.jpg"
+    - name: "715"
+      specs: "Dimensions: 71.5*45*17.5cm"
+      image: "images/products/hdpe/715b.jpg"
+
 spec_headers:
   - { key: "model",     label: "Modèle" }
   - { key: "size",      label: "Dimensions (mm)" }
