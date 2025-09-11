@@ -95,6 +95,22 @@ products:
     - name: "尺寸：615*415*90mm"
       image: "images/products/close/615q.jpg"
 
+    - name: "340"
+      specs: "尺寸: 34*26.5*13cm"
+      image: "images/products/close/340b.jpg"
+    - name: "405"
+      specs: "尺寸: 40.5*30.5*14.5cm"
+      image: "images/products/close/405b.jpg"
+    - name: "515"
+      specs: "尺寸: 51.5*34.5*15cm"
+      image: "images/products/close/515b2.jpg"
+    - name: "650"
+      specs: "尺寸: 65*40.5*15.5cm"
+      image: "images/products/close/650b.jpg"
+    - name: "715"
+      specs: "尺寸: 71.5*45*17.5cm"
+      image: "images/products/close/715b.jpg"
+
 
 
 spec_headers:

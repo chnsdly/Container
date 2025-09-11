@@ -28,7 +28,7 @@ showcase:
     - image: "images/products/hdpe/ss.jpg"
       title: "HDPE 小型周转箱（3.5–22 L）"
       content:  "小批量取用与分装更灵活，便于快进快出；可嵌套回空省库位，日清日洗不易挂污。"
-    - image: "images/products/hdpe/box.jpg"
+    - image: "images/products/hdpe/under.jpg"
       title: "底部加强筋结构"
       content:  "交错筋条提升抗压与抗冲击，底纹增强湿地面摩擦力；受力更均匀，满载堆放更稳。"
     - image: "images/products/hdpe/work.jpg"
@@ -101,22 +101,6 @@ products:
     - name: "50L"
       specs: "尺寸: 80*80*15cm"
       image: "images/products/hdpe/400ll.jpg"
-
-    - name: "340"
-      specs: "尺寸: 34*26.5*13cm"
-      image: "images/products/hdpe/340b.jpg"
-    - name: "405"
-      specs: "尺寸: 40.5*30.5*14.5cm"
-      image: "images/products/hdpe/405b.jpg"
-    - name: "515"
-      specs: "尺寸: 51.5*34.5*15cm"
-      image: "images/products/hdpe/515b.jpg"
-    - name: "650"
-      specs: "尺寸: 65*40.5*15.5cm"
-      image: "images/products/hdpe/650b.jpg"
-    - name: "715"
-      specs: "尺寸: 71.5*45*17.5cm"
-      image: "images/products/hdpe/715b.jpg"
 
 
 spec_headers:
