@@ -2,7 +2,7 @@
 title: "HDPE+POE 周转箱"
 description: "韧性升级，低温不脆裂"
 list_image: "images/products/poe/main.jpg"
-hero_image: "images/products/poe/hero.png"
+hero_image: "images/products/poe/hero2.jpg"
 weight: 20        # Hugo 排序用
 type:   "products" # 可按你现有 taxonomies 调整
 specs_heading: "规格总表"
